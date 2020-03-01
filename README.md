@@ -1,2 +1,2 @@
-# YRB-01
+# YRB-2
 Proyecto número 1 de Yerobe
